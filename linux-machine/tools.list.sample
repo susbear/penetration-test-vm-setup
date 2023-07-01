@@ -1,0 +1,31 @@
+# Basic
+netcat
+nc
+ncat
+tcpdump
+hashcat
+ffuf
+gobuster
+zaproxy
+proxychains
+spiderfoot
+theharvester
+remmina
+exiftool
+vim
+curl
+gcc
+git
+seclists
+testssl.sh
+terminator
+flameshot
+peek
+cherrytree
+socat
+# Linux exploitation
+unix-privesc-check
+# Windows exploitation
+powershell
+bloodhound
+evil-winrm
